@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://paul-gd.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 14:07:40 +0200</lastBuildDate><atom:link href="https://paul-gd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://paul-gd.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 09 Jan 2021 14:07:40 +0200</pubDate>
+      
+      <guid>https://paul-gd.github.io/posts/hello-world/</guid>
+      <description>Hello world! This is markdown! And this is the content of the site :)</description>
+    </item>
+    
+  </channel>
+</rss>
